@@ -1,0 +1,32 @@
+/* app css stylesheet */
+
+.topcontainer {
+  /** margin to avoid collapsing with header **/
+  margin-top : 50px;
+}
+
+/* to make rate card column smaller */
+.ratecardtable input.mini,
+.resourcetable td.mini input,
+.resourcetable td.mini {
+  width : 50px !important;
+}
+
+.centertext {
+  text-align: center !important;
+}
+
+td.infotitle,
+th.infotitle {
+  background-color : #060A64 !important;
+  color : #FFFFFF !important;
+}
+
+tr.infosubtitle {
+  background-color : #d9edf7 !important;
+}
+
+td.phasetitle,
+th.phasetitle {
+  background-color : #E4AA17 !important;
+}

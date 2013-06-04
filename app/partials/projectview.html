@@ -1,0 +1,46 @@
+
+<div class="container topcontainer" data-ng-controller="projectViewCtrl">
+    <table class="table table-bordered table-condensed table-striped">
+        <thead>
+        <tr>
+            <th></th>
+            <th colspan="{{maintimelines.length}}" class="centertext infotitle">
+                {{ title }}
+            </th>
+            <th colspan="3"></th>
+        </tr>
+        <tr>
+            <th></th>
+            <th data-ng-repeat="record in maintimelines" class="phasetitle">
+                {{ record.phase}}
+            </th>
+            <th colspan="3"></th>
+        </tr>
+        <tr>
+            <th class="infotitle">Resource Distribution</th>
+            <th data-ng-repeat="record in maintimelines" class="phasetitle">
+                {{ record.name}}
+            </th>
+            <th colspan="3"></th>
+        </tr>
+        <tr class="infosubtitle">
+            <th>Role</th>
+            <th data-ng-repeat="record in maintimelines"  class="centertext">
+                {{ record.week }}
+            </th>
+            <th>Total Hrs</th>
+            <th>Rate</th>
+            <th>Price</th>
+        </tr>
+        </thead>
+        <tr data-ng-repeat="record in projects" ng-model="projects">
+            <td><a href="#/resource/{{record.roleid}}">{{ record.role }}</a> </td>
+            <td data-ng-repeat="recordt in record.resources">
+                {{ recordt }}
+            </td>
+            <td>{{ record.total_hours}} </td>
+            <td>$ {{ record.rate }} </td>
+            <td>$ {{ record.price}} </td>
+        </tr>
+    </table>
+</div>

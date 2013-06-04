@@ -1,0 +1,252 @@
+[
+	{
+		"Code": "A-BA",
+		"Category": "Architect",
+		"Role": "Business Architect",
+		"Rate Card": "75",
+		"Rate": "65",
+		"Floor": "65",
+		"Resource Cost": "10",
+		"": ""
+	},
+	{
+		"Code": "A-TA",
+		"Category": "Architect",
+		"Role": "Technical Architect",
+		"Rate Card": "75",
+		"Rate": "65",
+		"Floor": "65",
+		"Resource Cost": "10",
+		"": ""
+	},
+	{
+		"Code": "A-IA",
+		"Category": "Architect",
+		"Role": "Integration Architect",
+		"Rate Card": "75",
+		"Rate": "65",
+		"Floor": "65",
+		"Resource Cost": "10",
+		"": ""
+	},
+	{
+		"Code": "A-MA",
+		"Category": "Architect",
+		"Role": "Mobile Architect",
+		"Rate Card": "75",
+		"Rate": "65",
+		"Floor": "65",
+		"Resource Cost": "10",
+		"": ""
+	},
+	{
+		"Code": "CP",
+		"Category": "Program Leadership",
+		"Role": "Client Partner",
+		"Rate Card": "75",
+		"Rate": "65",
+		"Floor": "65",
+		"Resource Cost": "10",
+		"": ""
+	},
+	{
+		"Code": "EM",
+		"Category": "Program Leadership",
+		"Role": "Engagement Manager",
+		"Rate Card": "75",
+		"Rate": "65",
+		"Floor": "65",
+		"Resource Cost": "10",
+		"": ""
+	},
+	{
+		"Code": "PM",
+		"Category": "Project Leadership",
+		"Role": "Project Manager",
+		"Rate Card": "75",
+		"Rate": "65",
+		"Floor": "65",
+		"Resource Cost": "10",
+		"": ""
+	},
+	{
+		"Code": "C-BA",
+		"Category": "Consultant",
+		"Role": "Business Analyst",
+		"Rate Card": "65",
+		"Rate": "55",
+		"Floor": "55",
+		"Resource Cost": "10",
+		"": ""
+	},
+	{
+		"Code": "C-CC",
+		"Category": "Consultant",
+		"Role": "Configuration Consultant",
+		"Rate Card": "65",
+		"Rate": "55",
+		"Floor": "55",
+		"Resource Cost": "10",
+		"": ""
+	},
+	{
+		"Code": "C-DE",
+		"Category": "Consultant",
+		"Role": "Developer",
+		"Rate Card": "65",
+		"Rate": "55",
+		"Floor": "55",
+		"Resource Cost": "10",
+		"": ""
+	},
+	{
+		"Code": "C-DM",
+		"Category": "Consultant",
+		"Role": "Data Migration Lead",
+		"Rate Card": "65",
+		"Rate": "55",
+		"Floor": "55",
+		"Resource Cost": "10",
+		"": ""
+	},
+	{
+		"Code": "C-ID",
+		"Category": "Consultant",
+		"Role": "Integration Developer",
+		"Rate Card": "65",
+		"Rate": "55",
+		"Floor": "55",
+		"Resource Cost": "10",
+		"": ""
+	},
+	{
+		"Code": "C-RM",
+		"Category": "Consultant",
+		"Role": "Release Manager",
+		"Rate Card": "65",
+		"Rate": "55",
+		"Floor": "55",
+		"Resource Cost": "10",
+		"": ""
+	},
+	{
+		"Code": "C-QA",
+		"Category": "Consultant",
+		"Role": "QA Lead",
+		"Rate Card": "65",
+		"Rate": "55",
+		"Floor": "55",
+		"Resource Cost": "10",
+		"": ""
+	},
+	{
+		"Code": "C-MT",
+		"Category": "Consultant",
+		"Role": "Mobile Technical Lead",
+		"Rate Card": "65",
+		"Rate": "55",
+		"Floor": "55",
+		"Resource Cost": "10",
+		"": ""
+	},
+	{
+		"Code": "OS-L",
+		"Category": "Off-Shore",
+		"Role": "Lead",
+		"Rate Card": "90",
+		"Rate": "80",
+		"Floor": "80",
+		"Resource Cost": "5",
+		"": ""
+	},
+	{
+		"Code": "OS-D",
+		"Category": "Off-Shore",
+		"Role": "Developer",
+		"Rate Card": "90",
+		"Rate": "80",
+		"Floor": "80",
+		"Resource Cost": "5",
+		"": ""
+	},
+	{
+		"Code": "OS-T",
+		"Category": "Off-Shore",
+		"Role": "Tester",
+		"Rate Card": "90",
+		"Rate": "80",
+		"Floor": "80",
+		"Resource Cost": "5",
+		"": ""
+	},
+	{
+		"Code": "UA-S",
+		"Category": "User Adoption",
+		"Role": "User Adoption Specialist",
+		"Rate Card": "110",
+		"Rate": "100",
+		"Floor": "100",
+		"Resource Cost": "20",
+		"": ""
+	},
+	{
+		"Code": "UA-CE",
+		"Category": "User Adoption",
+		"Role": "Communications Expert",
+		"Rate Card": "110",
+		"Rate": "100",
+		"Floor": "100",
+		"Resource Cost": "20",
+		"": ""
+	},
+	{
+		"Code": "UA-ID",
+		"Category": "User Adoption",
+		"Role": "Instructional Designer",
+		"Rate Card": "110",
+		"Rate": "100",
+		"Floor": "100",
+		"Resource Cost": "20",
+		"": ""
+	},
+	{
+		"Code": "UI-DE",
+		"Category": "User Interface",
+		"Role": "UI/UX Designer",
+		"Rate Card": "110",
+		"Rate": "100",
+		"Floor": "100",
+		"Resource Cost": "20",
+		"": ""
+	},
+	{
+		"Code": "CS-A",
+		"Category": "CloudSpokes",
+		"Role": "Architect",
+		"Rate Card": "4000",
+		"Rate": "3990",
+		"Floor": "3990",
+		"Resource Cost": "20",
+		"": ""
+	},
+	{
+		"Code": "CS-D",
+		"Category": "CloudSpokes",
+		"Role": "Developer",
+		"Rate Card": "4000",
+		"Rate": "3990",
+		"Floor": "3990",
+		"Resource Cost": "20",
+		"": ""
+	},
+	{
+		"Code": "CS-T",
+		"Category": "CloudSpokes",
+		"Role": "Tester",
+		"Rate Card": "4000",
+		"Rate": "3990",
+		"Floor": "3990",
+		"Resource Cost": "20",
+		"": ""
+	}
+]
